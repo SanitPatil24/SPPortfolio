@@ -44,8 +44,8 @@ const projects = [
     name:"Portfolio",
     technologies: "React Js",
     image:portfolio,
-    github:"",
-    run:""
+    github:"https://github.com/SanitPatil24/SpPortfolio",
+    run:"https://sanitpatil24.github.io/SpPortfolio/"
   }
 ]
 
