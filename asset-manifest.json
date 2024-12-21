@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/SpPortfolio/static/css/main.222d74db.css",
+    "main.js": "/SpPortfolio/static/js/main.7624bfd3.js",
+    "static/js/453.1407b060.chunk.js": "/SpPortfolio/static/js/453.1407b060.chunk.js",
+    "static/media/sanit-2.jpg": "/SpPortfolio/static/media/sanit-2.534077a54a86f318463f.jpg",
+    "static/media/sanit-4.jpg": "/SpPortfolio/static/media/sanit-4.ce3d0c7351bd3fc3403b.jpg",
+    "static/media/fa-solid-900.ttf": "/SpPortfolio/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
+    "static/media/fa-brands-400.ttf": "/SpPortfolio/static/media/fa-brands-400.26b80c8830bebf340211.ttf",
+    "static/media/fa-solid-900.woff2": "/SpPortfolio/static/media/fa-solid-900.83a538a018a9e44b023a.woff2",
+    "static/media/fa-brands-400.woff2": "/SpPortfolio/static/media/fa-brands-400.fdbb558523a380307689.woff2",
+    "static/media/text-analyzer.png": "/SpPortfolio/static/media/text-analyzer.169a56f882c3566a97f0.png",
+    "static/media/fa-regular-400.ttf": "/SpPortfolio/static/media/fa-regular-400.05fdd87be89f7f8f0a1e.ttf",
+    "static/media/Flag_of_India.png": "/SpPortfolio/static/media/Flag_of_India.de5e025e35376ea55c86.png",
+    "static/media/fa-regular-400.woff2": "/SpPortfolio/static/media/fa-regular-400.4f6a2dabee9c092d09b9.woff2",
+    "static/media/weather.jpg": "/SpPortfolio/static/media/weather.99c2c77b0bae1965ae93.jpg",
+    "static/media/fa-v4compatibility.ttf": "/SpPortfolio/static/media/fa-v4compatibility.fa86b3c85e77abbd2ebd.ttf",
+    "static/media/fa-v4compatibility.woff2": "/SpPortfolio/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
+    "index.html": "/SpPortfolio/index.html",
+    "main.222d74db.css.map": "/SpPortfolio/static/css/main.222d74db.css.map",
+    "main.7624bfd3.js.map": "/SpPortfolio/static/js/main.7624bfd3.js.map",
+    "453.1407b060.chunk.js.map": "/SpPortfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.222d74db.css",
+    "static/js/main.7624bfd3.js"
+  ]
+}
